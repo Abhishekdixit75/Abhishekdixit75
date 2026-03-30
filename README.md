@@ -1,5 +1,5 @@
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A958FF,50:FF318C,100:FF8933&height=160&section=header&text=Abhishek%20Dixit&fontSize=56&fontColor=ffffff&fontAlignY=62&desc=Full%20Stack%20Intern%20%40%20SteinnLabs%20%E2%80%94%20Engineer%20in%20Progress&descSize=14&descColor=e2e8f0&descAlignY=80&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A958FF,50:FF318C,100:FF8933&height=160&section=header&text=Abhishek%20Dixit&fontSize=56&fontColor=ffffff&fontAlignY=62&desc=Engineer%20in%20Progress&descSize=14&descColor=e2e8f0&descAlignY=80&animation=fadeIn" />
 
 <br/>
 
