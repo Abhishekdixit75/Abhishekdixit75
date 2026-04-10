@@ -23,7 +23,7 @@
 
 ```yaml
 name: Abhishek Dixit
-role: Full Stack Intern @ SteinnLabs
+role:Ex - SDE Intern @ SteinnLabs
 focus: DSA · Full-Stack · AI/ML
 learning: Java · Python · System Design · ML · DL · GenAI · AgenticAI
 open_to: Open-source · AI/ML · Web Dev collaborations
@@ -43,7 +43,7 @@ currently: Building real-world projects, grinding DSA daily
   </tr>
   <tr>
     <td><a href="#">SteinnLabs</a></td>
-    <td>Full Stack Intern</td>
+    <td>Ex - SDE Intern</td>
     <td>January, 2026 – Present</td>
     <td>FastAPI · NextJS · PgSQL · AWS · Docker · Redis</td>
   </tr>
