@@ -23,7 +23,7 @@
 
 ```yaml
 name: Abhishek Dixit
-role:Ex - SDE Intern @ SteinnLabs
+role: Ex-SDE Intern @ SteinnLabs
 focus: DSA · Full-Stack · AI/ML
 learning: Java · Python · System Design · ML · DL · GenAI · AgenticAI
 open_to: Open-source · AI/ML · Web Dev collaborations
@@ -42,10 +42,10 @@ currently: Building real-world projects, grinding DSA daily
     <td><b>🔧 Stack</b></td>
   </tr>
   <tr>
-    <td><a href="#">SteinnLabs</a></td>
-    <td>Ex - SDE Intern</td>
-    <td>January, 2026 – Present</td>
-    <td>FastAPI · NextJS · PgSQL · AWS · Docker · Redis</td>
+    <td><a href="https://steinnlabs.com/">SteinnLabs</a></td>
+    <td>Ex-SDE Intern @ <a href="https://flozi.io">Flozi.io</a></td>
+    <td>January, 2026 – March, 2026</td>
+    <td>FastAPI · NextJS · PgSQL · AWS · Docker · Redis · Webflow</td>
   </tr>
 </table>
 
